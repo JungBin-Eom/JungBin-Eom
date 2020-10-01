@@ -7,8 +7,7 @@ Good Day! I'm Rickey, a passionate **DevOps** engineer from Korea.
 - 📫 How to reach me: ejb0329@gmail.com
 <br>
 
-**Languages and Tools:**<br><br>
-<img src="https://user-images.githubusercontent.com/61479654/94792993-c5d72380-0414-11eb-8ec4-819101e5f649.jpg"  width="25" height="25"> 
+**Languages and Tools:**<img src="https://user-images.githubusercontent.com/61479654/94792993-c5d72380-0414-11eb-8ec4-819101e5f649.jpg"  width="25" height="25"> 
 <img src="https://user-images.githubusercontent.com/61479654/94791921-4137d580-0413-11eb-9ead-4f2354224ffe.png"  width="25" height="25"> 
 <img src="https://user-images.githubusercontent.com/61479654/94793022-ce2f5e80-0414-11eb-844d-e7067d57260b.jpg"  width="25" height="25"> 
 <img src="https://user-images.githubusercontent.com/61479654/94792188-91af3300-0413-11eb-8ad5-c4a7098ac131.png"  width="25" height="25"> 
