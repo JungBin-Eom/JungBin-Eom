@@ -15,5 +15,14 @@ Good Day! I'm Rickey, a passionate **DevOps** engineer from Korea.
 <img src="https://user-images.githubusercontent.com/61479654/94792219-9aa00480-0413-11eb-840c-7b2fbc7205c4.png"  width="25" height="25">
 
 <br>
+**Experiences:**
+<ol>
+  <li>IBM C:LOUDERs 2020.07.01~</li>
+  <li>PNU Software Engineering Lab 2020.05.01~</li>
+  <li>Qwiklab Breakers Management 2020.02~2020.05</li>
+  <li>Developer Students Club PNU Core Member 2019.08~2020.08</li>
+  <li>Pusan National University(Bachelor) 2016.03~</li>
+</ol>
+<br>
 
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jbhs7014.tistory.com/)](https://jbhs7014.tistory.com/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jungbin-eom-9827931a4/)](https://www.linkedin.com/in/jungbin-eom-9827931a4/) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100004248822179)](https://www.facebook.com/profile.php?id=100004248822179) [![Instagram Badge](https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/eommm_jb_/)](https://www.instagram.com/eommm_jb_/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ejb0329@gmail.com)](mailto:ejb0329@gmail.com)
