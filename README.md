@@ -15,6 +15,7 @@ Good Day! I'm Rickey, a passionate **DevOps** engineer from Korea.
 <img src="https://user-images.githubusercontent.com/61479654/94792219-9aa00480-0413-11eb-840c-7b2fbc7205c4.png"  width="25" height="25">
 
 <br>
+
 **Experiences:**
 <ol>
   <li>IBM C:LOUDERs 2020.07.01~</li>
