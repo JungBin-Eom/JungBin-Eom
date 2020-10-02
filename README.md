@@ -4,7 +4,7 @@ Good Day! I'm Rickey, a passionate **DevOps** engineer from Korea.
 
 - 🌱 I’m currently learning Cloud computing with Kubernetes.
 - 👯 I love networking with people in the community.
-- 📫 How to reach me: ejb0329@gmail.com
+- 🙏 Please contact me anytime, if you have any question about me.
 <br>
 
 **Languages and Tools:**
