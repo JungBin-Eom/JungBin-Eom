@@ -1,4 +1,4 @@
-### Hi there, I'm Rickey 👋
+### Hi there, I'm Ricky 👋
 
 Good Day! I'm Rickey, a passionate **DevOps** engineer from Korea.
 
