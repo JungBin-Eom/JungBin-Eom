@@ -1,6 +1,6 @@
 ### Hi there, I'm Ricky 👋
 
-Good Day! I'm Rickey, a passionate **DevOps** engineer from Korea.
+Good Day! I'm Ricky, a passionate **DevOps** engineer from Korea.
 
 - 🌱 I’m currently learning Cloud computing with Kubernetes.
 - 👯 I love networking with people in the community.
