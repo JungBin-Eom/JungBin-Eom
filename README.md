@@ -13,13 +13,13 @@ Good Day! I'm Ricky, a passionate student intrested in **DevOps**.
 <br>
 
 **🔥 Experiences**  
-
+```
 IBM C:LOUDERs 2020.07.01-  
 PNU Software Engineering Lab 2020.05.01-  
 Qwiklab Breakers Management 2020.02-2020.05  
 Developer Students Club PNU Core Member 2019.08-2020.08  
 Pusan National University(Bachelor) 2016.03-  
-  
+```  
 <br>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JungBin-Eom&show_icons=true)
