@@ -12,6 +12,13 @@ Good Day! I'm Ricky, a passionate student intrested in **DevOps**.
 
 <br>
 
+**🏅 Certifications**
+1. GCP Associate Cloud Engineer
+2. AWS Certified Developer
+3. TOEIC 935
+
+<br>
+
 **🔥 Experiences**  
 ```
 IBM C:LOUDERs 2020.07.01-  
