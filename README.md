@@ -4,7 +4,7 @@ Good Day! I'm Ricky, a passionate student intrested in **DevOps**.
 
 🌱 I’m currently learning Cloud computing with Kubernetes.  
 👯 I love networking with people in the community.  
-🙏 Please contact me anytime, if you have any question about me.  
+📧 Please contact me anytime, if you have any question about me.  
 
 <br>
 
