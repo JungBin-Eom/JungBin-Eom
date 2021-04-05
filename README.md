@@ -8,7 +8,7 @@ Good Day! I'm Ricky, a passionate student intrested in **DevOps**.
 
 <br>
 
-**🛠 Languages and Tools :** AWS | GCP | OpenStack | Kubernetes | Docker | Go | Python  
+**🛠 Languages and Tools :** AWS | GCP | OpenStack | Kubernetes | Docker | Terraform | Go | Python  
 
 <br>
 
