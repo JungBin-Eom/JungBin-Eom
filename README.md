@@ -2,7 +2,7 @@
 
 Good Day! I'm Ricky, a passionate student intrested in **DevOps**.
 
-🌱 I am a passionate student who wants to be a DevOps engineer.
+🌱 I am a passionate student who wants to be a DevOps engineer.  
 👯 I love networking with people in the community.  
 📧 Please contact me anytime, if you have any question about me.  
 
