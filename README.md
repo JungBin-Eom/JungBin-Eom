@@ -22,7 +22,7 @@ Good Day! I'm Ricky, a passionate student interested in **DevOps**.
 **🔥 Experiences**  
 ```
 IBM C:LOUDERs 2020.07.01-2021.01.18  
-PNU Software Engineering Lab 2020.05.01-  
+PNU Software Engineering Lab 2020.05.01-2021.10.31  
 Qwiklab Breakers Management 2020.02-2020.05  
 Developer Students Club PNU Core Member 2019.08-2020.08  
 Pusan National University(Bachelor) 2016.03-  
