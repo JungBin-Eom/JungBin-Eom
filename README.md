@@ -1,6 +1,6 @@
 ### Hi there, I'm Ricky 👋
 
-Good Day! I'm Ricky, a passionate **DevOps** engineer.
+Good Day! I'm Ricky, a passionate **DevOps/Cloud** engineer.
 
 🌱 I'm studying cloud and open source tools for DevOps culture.  
 👯 I love networking with people in the community.  
